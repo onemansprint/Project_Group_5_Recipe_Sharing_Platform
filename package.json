@@ -1,0 +1,25 @@
+{
+  "name": "nau-web-ii",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test-db.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onemansprint/NAU-Web-II.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/onemansprint/NAU-Web-II/issues"
+  },
+  "homepage": "https://github.com/onemansprint/NAU-Web-II#readme",
+  "dependencies": {
+    "dotenv": "^18.0.9",
+    "pg": "^8.23.1"
+  }
+}
