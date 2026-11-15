@@ -1,0 +1,1 @@
+{"name":"nau-recipe-frontend","private":true,"type":"module","scripts":{"dev":"vite","build":"vite build --base=./","preview":"vite preview"},"dependencies":{"react":"19.2.0","react-dom":"19.2.0"},"devDependencies":{"vite":"7.2.2"}}
